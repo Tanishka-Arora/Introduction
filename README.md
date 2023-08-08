@@ -1,5 +1,5 @@
 # Introduction
-![Screenshot 2023-08-09 024856](https://github.com/Tanishka-Arora/Introduction/assets/119075273/f66df541-e3af-4a51-a7df-e90197623184)                        
+ ![Screenshot 2023-08-09 025730](https://github.com/Tanishka-Arora/Introduction/assets/119075273/d6267937-77a3-41ae-821d-86f740e7248f)                    
 
 ![Screenshot 2023-08-09 024119](https://github.com/Tanishka-Arora/Introduction/assets/119075273/1cc44b1a-97da-47d2-b458-ee365a576ccb)
 
@@ -10,6 +10,7 @@ I am a  data science fresher with a passion for solving complex problems using d
 Data Science has been my major point of interest for a year now. I find ease coding in Python,but I never limit myself to learn Python just for Data Science.
 I am currently in the 6th semester of my B.tech degree in Computer Science and Engineering (CSE).
 My current interests are (but not limited to)
+
 -Data Analytics 
 -Microsoft Excel
 -Microsoft Power BI
