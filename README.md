@@ -1,6 +1,8 @@
 # Introduction
+![Screenshot 2023-08-09 024856](https://github.com/Tanishka-Arora/Introduction/assets/119075273/f66df541-e3af-4a51-a7df-e90197623184)                        
 
 ![Screenshot 2023-08-09 024119](https://github.com/Tanishka-Arora/Introduction/assets/119075273/1cc44b1a-97da-47d2-b458-ee365a576ccb)
+
 
 Hello there,
 My name is Tanishka Arora.
