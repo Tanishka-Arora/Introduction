@@ -1,6 +1,7 @@
 # Introduction
                    
-![Screenshot 2023-08-09 024119](https://github.com/Tanishka-Arora/Introduction/assets/119075273/1cc44b1a-97da-47d2-b458-ee365a576ccb)
+![image](https://github.com/Tanishka-Arora/Introduction/assets/119075273/ef580a3a-cb0a-4249-90b1-d399afa67977)
+
 
 
 **Hello there,
