@@ -24,9 +24,9 @@ My current interests are (but not limited to)
 
  Since I was young, I have always enjoyed solving puzzles. So that's how I view data sets: as a single, complex puzzle that needs to be solved. Finding patterns nobody else sees is the challenge for me. I have a strong background in mathematics, statistics, and programming.  I'm excited to leverage my skills to tackle real-world challenges.
 
-![image](https://github.com/Tanishka-Arora/Introduction/assets/119075273/b8894cc5-a919-4e94-a84e-79d1cdd5dafc)
+Linkedin: https://www.linkedin.com/in/tanishka-arora-861b45245/
+Medium: https://medium.com/@tanishkaa330
 
-https://www.linkedin.com/in/tanishka-arora-861b45245/
 
 
 ```
